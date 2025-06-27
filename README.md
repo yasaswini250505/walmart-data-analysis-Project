@@ -59,7 +59,7 @@ This Excel-based data analysis project provides an in-depth exploration of Walma
 - Pivot charts
 - slicers for interactivity
 ### Dashboard_preview
--[Dashboard](Dashboard.png)
+-![Dashboard](Dashboard.png)
 
 ---
 
