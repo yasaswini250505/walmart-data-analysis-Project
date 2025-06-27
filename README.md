@@ -74,7 +74,7 @@ This Excel-based data analysis project provides an in-depth exploration of Walma
 ## 📊 Key Insights
 
 - Sales are generally **lower during holiday weeks**.
-- **Store 1** outperformed others consistently across all three years.
+- **Store 20 outperformed others consistently across all three years.
 - Monthly analysis shows **seasonal trends**, with peaks during summer months.
 - **Fuel price increases** appear to negatively correlate with weekly sales.
 - **Unemployment and CPI** are mildly associated with changes in sales, indicating economic sensitivity.
@@ -83,16 +83,16 @@ This Excel-based data analysis project provides an in-depth exploration of Walma
 
 ## 📈 Tools & Techniques Used
 
-| Tool / Feature           | Description |
-|--------------------------|-------------|
-| **Excel Table**          | Structured formatting for dynamic analysis |
+| Tool / Feature           | Description                                  |
+|--------------------------|----------------------------------------------|
+| **Excel Table**          | Structured formatting for dynamic analysis   |
 | **Pivot Tables**         | Sales breakdown by store, time, and features |
-| **Pivot Charts**         | Visualization of sales trends |
-| **Calculated Columns**   | Month, Year, Holiday Labels, Weekday |
-| **Conditional Formatting** | Highlights high/low values and holidays |
-| **KPI Cards**            | Key metrics like Total Sales, Avg Sales |
-| **Slicers** *(optional)* | Dashboard filtering |
-| **Time-Series Forecasting** | Predicting future sales |
+| **Pivot Charts**         | Visualization of sales trends                |
+| **Calculated Columns**   | Month, Year, Holiday Labels, Weekday         |
+| **Conditional Formatting** | Highlights high/low values and holidays    |
+| **KPI Cards**            | Key metrics like Total Sales, Avg Sales      |
+| **Slicers** *(optional)* | Dashboard filtering                          |
+| **Time-Series Forecasting** | Predicting future sales                   |
 
 ---
 
@@ -103,7 +103,7 @@ This Excel-based data analysis project provides an in-depth exploration of Walma
 3. Explore Pivot sheets to study summarized trends.
 4. Visit the `Dashboard` for visual insights.
 5. Check the `ForeCast Analysis` sheet to see sales predictions.
-6. Use filters/slicers (if added) for interactive exploration.
+6. Use filters/slicers for interactive exploration.
 
 ---
 
